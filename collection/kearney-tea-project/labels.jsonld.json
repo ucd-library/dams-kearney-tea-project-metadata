@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0563515",
+    "http://schema.org/name": "Thomas J. Lipton, Inc."
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0597584",
+    "http://schema.org/name": "University of California (System). Division of Agriculture and Natural Resources."
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0923266",
+    "http://schema.org/name": "Fertilizers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0923268",
+    "http://schema.org/name": "Fertilizers--Application"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0947643",
+    "http://schema.org/name": "Green Tea"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0951762",
+    "http://schema.org/name": "Harvesting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1144142",
+    "http://schema.org/name": "Tea--Research"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423700",
+    "http://schema.org/name": "Archives"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1747829",
+    "http://schema.org/name": "Tea plantations"
+  }
+]

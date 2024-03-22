@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Conversation",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d3c92q.pdf"
+  },
+  "schema:creator": "Richardson, Curtis",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1980-07-17"
+  },
+  "schema:description": "Letter to C. O. Qualset about maintenance of tea plants after end of research project.",
+  "schema:identifier": [
+    "ark:/87293/d3c92q",
+    "AR-227"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 page",
+  "schema:name": "Post-project Tea Maintenance Letter",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

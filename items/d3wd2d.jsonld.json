@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Conversation",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0923268"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d3wd2d.pdf"
+  },
+  "schema:creator": "Graham, Harold N.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1976-04-23"
+  },
+  "schema:description": "Letter to Karl Ingbretsen confirming plans for copper supplementation trials.",
+  "schema:identifier": [
+    "AR-227",
+    "ark:/87293/d3wd2d"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "2 pages",
+  "schema:name": "Copper Supplementation Experiment Letter",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

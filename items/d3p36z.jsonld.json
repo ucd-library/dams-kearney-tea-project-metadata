@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d3p36z.pdf"
+  },
+  "schema:creator": "Vannier Ranch",
+  "schema:description": "Annotated biblographic citations for writings on tea cultivation.",
+  "schema:identifier": [
+    "AR-227",
+    "ark:/87293/d3p36z"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "19 pages",
+  "schema:name": "Annotated Citations",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "undated"
+}

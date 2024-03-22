@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423700"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:description": "Located in Parlier, California, the UC Kearney Agricultural Research and Extension Center (KARE) is a research base for scientists from UC Riverside, UC Davis and UC Berkeley, and farm advisors from San Joaquin Valley UC Cooperative Extension. In the 1960s and 1970s, UC Agricultural Extension and Lipton Tea Co. conducted research at KARE to investigate the potential for commercial tea growing in California. This collection documents the progress and results of the research through correspondence, field notes, project proposals, progress reports, field data, and related reference material. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/)",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3fp71/media/images/d3fp71-001.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Kearney Agricultural Research & Extension Center (KARE) Tea Trials Records",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Department of Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Department of Archives and Special Collections"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Conversation",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d38k8t.pdf"
+  },
+  "schema:creator": "Lorenz, O. A.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1976-02-24"
+  },
+  "schema:description": "Memo to Karl Ingbretsen from Kearney Field Station Research Advisory Committee approving tea project for two more years.",
+  "schema:identifier": [
+    "ark:/87293/d38k8t",
+    "AR-227"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 page",
+  "schema:name": "Advisory Committee Project Approval Memo",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

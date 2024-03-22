@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Conversation",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0563515"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1144142"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0597584"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d38h1g.pdf"
+  },
+  "schema:creator": "Kauffman, Charles S. (\"Skip\")",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1975-09-09"
+  },
+  "schema:description": "Letter to John Peterson about recent visit to KHFS. Includes analyses of tea samples.",
+  "schema:identifier": [
+    "ark:/87293/d38h1g",
+    "AR-227"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "4 pages",
+  "schema:name": "Kaufman Visit Letter and Tea Analyses",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}
