@@ -34,7 +34,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2019"
   },
-  "schema:description": "Located in Parlier, California, the UC Kearney Agricultural Research and Extension Center (KARE) is a research base for scientists from UC Riverside, UC Davis and UC Berkeley, and farm advisors from San Joaquin Valley UC Cooperative Extension. In the 1960s and 1970s, UC Agricultural Extension and Lipton Tea Co. conducted research at KARE to investigate the potential for commercial tea growing in California. This collection documents the progress and results of the research through correspondence, field notes, project proposals, progress reports, field data, and related reference material. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/)",
+  "schema:description": "Located in Parlier, California, the UC Kearney Agricultural Research and Extension Center (KARE) is a research base for scientists from UC Riverside, UC Davis and UC Berkeley, and farm advisors from San Joaquin Valley UC Cooperative Extension. In the 1960s and 1970s, UC Agricultural Extension and Lipton Tea Co. conducted research at KARE to investigate the potential for commercial tea growing in California. This collection documents the progress and results of the research through correspondence, field notes, project proposals, progress reports, field data, and related reference material. \n\n The collection finding aid is available at [The Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8sq9651/)",
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3fp71/media/images/d3fp71-001.jpg"
   },
