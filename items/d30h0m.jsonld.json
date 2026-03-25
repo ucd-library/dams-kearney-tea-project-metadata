@@ -46,5 +46,8 @@
   },
   "schema:material": "2 pages",
   "schema:name": "Project Leader's Progress Report, Project 31 (Experiment Station Number 1807)",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d30h0m-000.jpg"
+  }
 }

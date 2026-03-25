@@ -45,5 +45,8 @@
   },
   "schema:material": "52 pages",
   "schema:name": "Vannier Ranch Tea Growing Memos, Reports, and Correspondence",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3xm01-000.jpg"
+  }
 }

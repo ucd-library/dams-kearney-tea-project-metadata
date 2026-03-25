@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Carbon Copy of Research Advisory Committee Decision on Tea Project",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3nm0j-000.jpg"
+  }
 }

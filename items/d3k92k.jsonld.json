@@ -45,5 +45,8 @@
   },
   "schema:material": "2 pages",
   "schema:name": "India's 1978 Tea Output Approximates Year-Earlier Record",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3k92k-000.jpg"
+  }
 }

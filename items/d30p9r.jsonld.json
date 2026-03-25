@@ -45,5 +45,8 @@
   },
   "schema:material": "9 pages",
   "schema:name": "1974 Operations Record",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d30p9r-000.jpg"
+  }
 }

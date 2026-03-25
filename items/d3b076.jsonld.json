@@ -42,5 +42,8 @@
   "schema:material": "1 page",
   "schema:name": "Tea Plot Map",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "undated"
+  "schema:temporal": "undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d3b076-000.jpg"
+  }
 }

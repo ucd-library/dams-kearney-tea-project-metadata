@@ -46,5 +46,8 @@
   },
   "schema:material": "5 pages",
   "schema:name": "Land and Labor Request and Summary of Tea Project Activities",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3s92f-000.jpg"
+  }
 }

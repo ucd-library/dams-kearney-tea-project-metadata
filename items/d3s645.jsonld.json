@@ -45,5 +45,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Rain For Rent Fresno, Inc. Invoice",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3s645-000.jpg"
+  }
 }

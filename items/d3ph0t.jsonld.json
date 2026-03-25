@@ -46,5 +46,8 @@
   },
   "schema:material": "3 pages",
   "schema:name": "1979 Growing Season Plans Letter",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ph0t-000.jpg"
+  }
 }

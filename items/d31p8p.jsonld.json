@@ -45,5 +45,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Field Note",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d31p8p-000.jpg"
+  }
 }

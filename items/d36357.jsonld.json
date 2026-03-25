@@ -42,5 +42,8 @@
   "schema:material": "2 pages",
   "schema:name": "Mist Propagation",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "undated"
+  "schema:temporal": "undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d36357-000.jpg"
+  }
 }

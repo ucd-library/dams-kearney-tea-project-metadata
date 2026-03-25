@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Cost of Maintaining Tea Planting at Kearney Horticultural Field Station",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3m34k-000.jpg"
+  }
 }

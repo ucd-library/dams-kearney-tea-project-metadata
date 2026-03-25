@@ -45,5 +45,8 @@
   },
   "schema:material": "2 pages",
   "schema:name": "Sprinkler Placement Map",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3pd3x-000.jpg"
+  }
 }

@@ -46,5 +46,8 @@
   },
   "schema:material": "4 pages",
   "schema:name": "KHFS Resource Usage Report for Project No. 31",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3bs8h-000.jpg"
+  }
 }

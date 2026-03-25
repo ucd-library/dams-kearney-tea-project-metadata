@@ -46,5 +46,8 @@
   },
   "schema:material": "7 pages",
   "schema:name": "Full Report, Project No. 1807: Evaluation of the Adaptation and Production of Tea In California",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3805t-000.jpg"
+  }
 }

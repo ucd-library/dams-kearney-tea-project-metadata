@@ -46,5 +46,8 @@
   },
   "schema:material": "3 pages",
   "schema:name": "Copy of 1979 Request for Land, Labor, and Facilities",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3f06r-000.jpg"
+  }
 }

@@ -49,5 +49,8 @@
   },
   "schema:material": "3 pages",
   "schema:name": "Report on Trip to Lipton Tea Farm",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d37345-000.jpg"
+  }
 }

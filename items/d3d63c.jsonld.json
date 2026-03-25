@@ -46,5 +46,8 @@
   },
   "schema:material": "6 pages",
   "schema:name": "Vannier Ranch Project Notes and Information on KHFS Tea Plants",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3d63c-000.jpg"
+  }
 }

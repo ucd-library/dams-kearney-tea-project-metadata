@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Cover Memo for John Peterson's Trip Report",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3bd12-000.jpg"
+  }
 }

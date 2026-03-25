@@ -45,5 +45,8 @@
   },
   "schema:material": "2 pages",
   "schema:name": "1971 Operations Record",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3865w-000.jpg"
+  }
 }

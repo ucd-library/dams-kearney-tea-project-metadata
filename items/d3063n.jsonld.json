@@ -49,5 +49,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Green Tea Researcher Visit Memo",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3063n-000.jpg"
+  }
 }

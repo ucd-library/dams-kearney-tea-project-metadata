@@ -42,5 +42,8 @@
   "schema:material": "19 pages",
   "schema:name": "Annotated Citations",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "undated"
+  "schema:temporal": "undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d3p36z-000.jpg"
+  }
 }

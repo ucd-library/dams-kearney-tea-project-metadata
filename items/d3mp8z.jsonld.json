@@ -43,5 +43,8 @@
   "schema:material": "2 pages",
   "schema:name": "Second Copy of Black Tea Manufacture Document",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "undated"
+  "schema:temporal": "undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d3mp8z-000.jpg"
+  }
 }

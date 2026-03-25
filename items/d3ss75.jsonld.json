@@ -45,5 +45,8 @@
   },
   "schema:material": "3 pages",
   "schema:name": "Florida Tea Cultivation Letters",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ss75-000.jpg"
+  }
 }

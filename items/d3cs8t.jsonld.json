@@ -46,5 +46,8 @@
   },
   "schema:material": "13 pages",
   "schema:name": "An Economic Analysis of Potential Tea Production in California",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3cs8t-000.jpg"
+  }
 }

@@ -48,5 +48,8 @@
   },
   "schema:material": "4 pages",
   "schema:name": "Indonesian Tea Output, Exports at Record Highs",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3q35w-000.jpg"
+  }
 }

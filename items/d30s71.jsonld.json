@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "C. O. Qualset Phone Call Notes",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d30s71-000.jpg"
+  }
 }

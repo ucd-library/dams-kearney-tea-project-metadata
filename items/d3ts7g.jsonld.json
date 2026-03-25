@@ -45,5 +45,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Three Major \"Ifs\" Will Determine Tea As Another Crop in California",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ts7g-000.jpg"
+  }
 }

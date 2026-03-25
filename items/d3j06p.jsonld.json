@@ -46,5 +46,8 @@
   },
   "schema:material": "4 pages",
   "schema:name": "Project Coordination and Tea Shipment Letter",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3j06p-000.jpg"
+  }
 }

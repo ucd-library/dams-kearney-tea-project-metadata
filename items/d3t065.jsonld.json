@@ -45,5 +45,8 @@
   },
   "schema:material": "3 pages",
   "schema:name": "1970 Request for Land, Labor, and Facilities",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3t065-000.jpg"
+  }
 }

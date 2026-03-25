@@ -50,5 +50,8 @@
   "schema:material": "2 pages",
   "schema:name": "Ag Industrial Manufacturing, Inc. Correspondence",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "November 7-December 3, 1980"
+  "schema:temporal": "November 7-December 3, 1980",
+  "schema:image": {
+    "@id": "@base:/media/images/d3gs8r-000.jpg"
+  }
 }

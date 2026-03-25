@@ -42,5 +42,8 @@
   "schema:material": "1 page",
   "schema:name": "Notes on Equipment Needs and Planting",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "undated"
+  "schema:temporal": "undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d3663h-000.jpg"
+  }
 }

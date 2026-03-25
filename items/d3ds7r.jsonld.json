@@ -45,5 +45,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "1973 Project Leader's Plans for Next Project Period",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ds7r-000.jpg"
+  }
 }

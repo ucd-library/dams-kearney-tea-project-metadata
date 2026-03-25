@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Tea Plant Disposal Letter Reply",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3zw6c-000.jpg"
+  }
 }

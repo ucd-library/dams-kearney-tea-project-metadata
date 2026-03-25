@@ -46,5 +46,8 @@
   },
   "schema:material": "1 page",
   "schema:name": "Report Information Request Memo",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d37p8j-000.jpg"
+  }
 }

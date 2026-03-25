@@ -45,5 +45,8 @@
   },
   "schema:material": "6 pages",
   "schema:name": "1977 Operations Record and  Harvest Data, part 1",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3c05r-000.jpg"
+  }
 }

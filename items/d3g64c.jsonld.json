@@ -49,5 +49,8 @@
   },
   "schema:material": "2 pages",
   "schema:name": "Harvest and Cultivation Plan Note",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3g64c-000.jpg"
+  }
 }

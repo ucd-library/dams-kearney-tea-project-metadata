@@ -45,5 +45,8 @@
   },
   "schema:material": "4 pages",
   "schema:name": "1973 Operations Record",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d34d16-000.jpg"
+  }
 }

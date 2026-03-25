@@ -45,5 +45,8 @@
   },
   "schema:material": "6 pages",
   "schema:name": "1978 Operations Record and  Harvest Data",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d33h0j-000.jpg"
+  }
 }
